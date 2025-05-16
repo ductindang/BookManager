@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BookProject\\BookAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E69D1F-B3E8-4003-A393-91CB68977F4C}|BookAPI\\BookAPI.csproj|e:\\bookproject\\bookapi\\bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E69D1F-B3E8-4003-A393-91CB68977F4C}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E69D1F-B3E8-4003-A393-91CB68977F4C}|BookAPI\\BookAPI.csproj|e:\\bookproject\\bookapi\\bookapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E69D1F-B3E8-4003-A393-91CB68977F4C}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9E10B2-B488-4E8D-B841-BC4AC6BB6543}|DataAccessLayer\\DataAccessLayer.csproj|e:\\bookproject\\bookapi\\dataaccesslayer\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9E10B2-B488-4E8D-B841-BC4AC6BB6543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66728160-55A2-4730-A94D-9432EDB841A6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\bookproject\\bookapi\\businesslogiclayer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66728160-55A2-4730-A94D-9432EDB841A6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E69D1F-B3E8-4003-A393-91CB68977F4C}|BookAPI\\BookAPI.csproj|e:\\bookproject\\bookapi\\bookapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E69D1F-B3E8-4003-A393-91CB68977F4C}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9E10B2-B488-4E8D-B841-BC4AC6BB6543}|DataAccessLayer\\DataAccessLayer.csproj|e:\\bookproject\\bookapi\\dataaccesslayer\\repositoriesinterface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9E10B2-B488-4E8D-B841-BC4AC6BB6543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositoriesinterface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66728160-55A2-4730-A94D-9432EDB841A6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\bookproject\\bookapi\\businesslogiclayer\\servicesinterface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66728160-55A2-4730-A94D-9432EDB841A6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servicesinterface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E69D1F-B3E8-4003-A393-91CB68977F4C}|BookAPI\\BookAPI.csproj|e:\\bookproject\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E69D1F-B3E8-4003-A393-91CB68977F4C}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66728160-55A2-4730-A94D-9432EDB841A6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\bookproject\\bookapi\\businesslogiclayer\\servicesinterface\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66728160-55A2-4730-A94D-9432EDB841A6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servicesinterface\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66728160-55A2-4730-A94D-9432EDB841A6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\bookproject\\bookapi\\businesslogiclayer\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66728160-55A2-4730-A94D-9432EDB841A6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9E10B2-B488-4E8D-B841-BC4AC6BB6543}|DataAccessLayer\\DataAccessLayer.csproj|e:\\bookproject\\bookapi\\dataaccesslayer\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9E10B2-B488-4E8D-B841-BC4AC6BB6543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 114,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\BookAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\BookAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:52:31.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\DataAccessLayer\\RepositoriesInterface\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RepositoriesInterface\\IBookRepository.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\DataAccessLayer\\RepositoriesInterface\\IBookRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\RepositoriesInterface\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:43:41.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\BusinessLogicLayer\\ServicesInterface\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ServicesInterface\\IAuthorService.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\BusinessLogicLayer\\ServicesInterface\\IAuthorService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ServicesInterface\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:21:44.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Program.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeToolTip": "BookAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:55:19.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\BookAPI\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\AuthorController.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\BookAPI\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:27:41.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\BusinessLogicLayer\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\AuthorService.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\BusinessLogicLayer\\Services\\AuthorService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\AuthorService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:21:59.986Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\DataAccessLayer\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Book.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\DataAccessLayer\\Models\\Book.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:39:50.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\DataAccessLayer\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BookRepository.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\DataAccessLayer\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:20:50.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\BusinessLogicLayer\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\BookService.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\BusinessLogicLayer\\Services\\BookService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\BookService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:43:31.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\BookAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\BookAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:47:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\BookProject\\BookAPI\\BusinessLogicLayer\\ServicesInterface\\IBookService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ServicesInterface\\IBookService.cs",
+              "ToolTip": "E:\\BookProject\\BookAPI\\BusinessLogicLayer\\ServicesInterface\\IBookService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ServicesInterface\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:41:58.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

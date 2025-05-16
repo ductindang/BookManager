@@ -1,0 +1,14 @@
+E:\BookProject\BookAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\BookProject\BookAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+E:\BookProject\BookAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\BookProject\BookAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+E:\BookProject\BookAPI\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
